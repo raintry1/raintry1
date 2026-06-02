@@ -1,13 +1,25 @@
-<!-- Profile Banner -->
+<!-- Matrix Rain + Glitch Profile -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=200&section=header&text=Hey,%20I'm%20Rain&fontSize=40&fontColor=000000&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=Hey,%20I'm%20Rain&fontSize=40&fontColor=000000&animation=fadeIn" alt="header" />
 </p>
 
+<!-- Matrix Rain Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hey%2C+I'm+Rain;%F0%9F%92%BB+Diploma+in+CE;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%8F%B4+CTF+Player;%F0%9F%90%A7+Linux+User;%F0%9F%92%A1+AI+%26+Automation+Explorer" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake-dark.svg" alt="Matrix" width="1" height="1" style="display:none" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hey%2C+I'm+Rain;%F0%9F%92%BB+Diploma+in+CE;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%8F%B4+CTF+Player;%F0%9F%90%A7+Linux+User;%F0%9F%92%A1+AI+%26+Automation+Explorer" alt="Typing SVG" />
+</p>
+
+<!-- Glitch Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1000&pause=500&color=00FF41&center=true&vCenter=true&width=300&lines=%E2%9A%A1+RAIN+%E2%9A%A1" alt="Glitch" />
 </p>
 
 <h3 align="center">🚀 Computer Engineering Student | Budding Cybersecurity Analyst | Script Developer</h3>
+
+<!-- Matrix Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" width="80%" />
+</p>
 
 <p align="center">
   <a href="mailto:raintry1@protone.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
@@ -68,37 +80,27 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raintry1&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raintry1&theme=matrix&no-frame=true&row=1&column=7" alt="trophy" />
 </p>
-
-> ⚠️ *अगर ट्रॉफ़ी खाली दिखे तो घबराएँ नहीं — ये आपकी गिटहब अचीवमेंट्स पर निर्भर करती हैं। जैसे-जैसे आप रिपो बनाएँगे, स्टार मिलेंगे, और कंट्रीब्यूट करेंगे, ट्रॉफ़ीज़ अपने आप भरने लगेंगी।*
+<p align="center"><i>🏗️ Trophies unlock with your first repos, stars, and contributions — let's build!</i></p>
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raintry1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rain's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raintry1&theme=radical&hide_border=true" alt="Rain's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raintry1&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="Rain's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raintry1&theme=chartreuse-dark&hide_border=true" alt="Rain's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raintry1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raintry1&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
-<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raintry1&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raintry1&theme=chartreuse-dark&hide_border=true&area=true" alt="Activity Graph" width="90%" />
 </p>
-
-> ⚠️ *ये सारे स्टैट्स कार्ड असली डेटा दिखाते हैं। अभी नया अकाउंट होने की वजह से खाली या "0" दिख सकता है — जैसे ही आप एक-दो रिपो बनाएँगे और कमिट करेंगे, ये भर जाएँगे।*
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raintry1.github.io/raintry1/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
+<p align="center"><i>📈 Stats will populate once you start pushing code and making commits!</i></p>
 
 ---
 
@@ -114,14 +116,14 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raintry1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=raintry1&color=green&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
 <!-- Footer wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
 </p>
