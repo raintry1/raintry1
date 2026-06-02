@@ -18,7 +18,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Diploma in Computer Engineering (GTU)
+- 🎓 Diploma in Computer Engineering 
 - 🔐 Cybersecurity Enthusiast & Ethical Hacker in the making
 - 🏴 Active CTF Player – learning by breaking and fixing
 - 🐧 Linux purist (Kali, Ubuntu, custom setups)
