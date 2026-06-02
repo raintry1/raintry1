@@ -1,3 +1,8 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=200&section=header&text=Hey,%20I'm%20Rain&fontSize=40&fontColor=000000&animation=fadeIn" alt="header" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hey%2C+I'm+Rain;%F0%9F%92%BB+Diploma+in+CE;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%8F%B4+CTF+Player;%F0%9F%90%A7+Linux+User;%F0%9F%92%A1+AI+%26+Automation+Explorer" alt="Typing SVG" />
 </p>
@@ -13,7 +18,6 @@
 ---
 
 ## 🧠 About Me
-
 - 🎓 Diploma in Computer Engineering (GTU)
 - 🔐 Cybersecurity Enthusiast & Ethical Hacker in the making
 - 🏴 Active CTF Player – learning by breaking and fixing
@@ -47,20 +51,25 @@
 ---
 
 ## 🌱 Currently Learning
-
 - 🕸️ Web Application Security & Bug Bounty Hunting
-- 🧠 AI Development with Open Source Models (local LLMs, automation agents)
+- 🧠 AI Development with Open Source Models
 - 🐧 Advanced Linux Administration & Hardening
 - 🌐 Networking Concepts & Packet Analysis
 
 ---
 
 ## 🎯 Goals
-
 - Become a skilled Cybersecurity Professional
 - Contribute meaningfully to Open Source projects
 - Build unique Security & AI tools that solve real problems
 - Improve programming logic every single day
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raintry1&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
+</p>
 
 ---
 
@@ -75,14 +84,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raintry1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raintry1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raintry1&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="90%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/raintry1/raintry1/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
 ---
 
 ## ⚡ Fun Facts
-
 - ☕ Curiosity is my fuel; I reverse‑engineer things just to see how they work
 - 🚀 «Consistency beats intensity» – I code, break, fix, and repeat daily
 - 🔍 I flash custom ROMs like some people change wallpapers
@@ -95,4 +111,13 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raintry1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<!-- Footer wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=100&section=footer" />
 </p>
