@@ -71,6 +71,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=raintry1&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
 </p>
 
+> ⚠️ *अगर ट्रॉफ़ी खाली दिखे तो घबराएँ नहीं — ये आपकी गिटहब अचीवमेंट्स पर निर्भर करती हैं। जैसे-जैसे आप रिपो बनाएँगे, स्टार मिलेंगे, और कंट्रीब्यूट करेंगे, ट्रॉफ़ीज़ अपने आप भरने लगेंगी।*
+
 ---
 
 ## 📊 GitHub Stats & Activity
@@ -89,11 +91,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raintry1&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="90%" />
 </p>
 
+> ⚠️ *ये सारे स्टैट्स कार्ड असली डेटा दिखाते हैं। अभी नया अकाउंट होने की वजह से खाली या "0" दिख सकता है — जैसे ही आप एक-दो रिपो बनाएँगे और कमिट करेंगे, ये भर जाएँगे।*
+
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/raintry1/raintry1/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raintry1.github.io/raintry1/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
 ---
